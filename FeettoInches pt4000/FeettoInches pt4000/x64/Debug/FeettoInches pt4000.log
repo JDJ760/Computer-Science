@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\jjohnson257\source\repos\FeettoInches pt4000\FeettoInches pt4000\Source.cpp(69,20): warning C4552: '*': result of expression not used
+C:\Users\jjohnson257\source\repos\FeettoInches pt4000\FeettoInches pt4000\Source.cpp(72,1): error C4716: 'FeetInches::operator-': must return a value
+C:\Users\jjohnson257\source\repos\FeettoInches pt4000\FeettoInches pt4000\Source.cpp(120,1): error C4716: 'operator>>': must return a value
+C:\Users\jjohnson257\source\repos\FeettoInches pt4000\FeettoInches pt4000\Source.cpp(111,1): error C4716: 'operator<<': must return a value
